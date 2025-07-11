@@ -1,0 +1,14 @@
+name: geo-to-fbx
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pdal
+  - python-pdal
+  - laspy
+  - rasterio
+  - pyproj
+  - open3d
+  - numpy
+  - lazrs-python
+  - pillow
